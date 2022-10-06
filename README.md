@@ -1,2 +1,2 @@
 # Assignment-3_Pawanrat
-This is an example of my assignment during the Introduction to Computer Science class.
+This is an example of the assignment in Introduction to Computer Science class.
